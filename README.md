@@ -42,9 +42,8 @@ Currently focused on:
 - Computer Networks
 - Computer Architecture
 - Compiler Design
-- Database Systems
 - Machine Learning
-
+- Data Science and Engineering
 ---
 
 ## 🚀 Featured Projects
@@ -63,7 +62,7 @@ reporting workflows.
 - Built a multi-step citizen reporting workflow supporting photo,
   video, voice, location, severity, and text inputs.
 - Integrated frontend modules with backend services and APIs.
-[view repository] (https://github.com/karthikgoud24/Aqua-Insights).
+- [view repository](https://github.com/karthikgoud24/Aqua-Insights).
 ---
 
 ### 🔍 AI Debt Lens
@@ -83,7 +82,7 @@ Hybrid Analysis · Static Analysis
   with AI-based verification.
 - Worked with Supabase Edge Functions and Gemini-based AI detection
   to estimate AI-generated code probability.
-
+- [view repository](https://github.com/aditya-rajesh2006/AIDebtLens).
 ---
 
 ### 🌱 NeoGarden Enhanced
@@ -99,7 +98,7 @@ AI-assisted functionality.
 - Integrated frontend-backend communication using Node.js/Express APIs.
 - Contributed to plant-data and AI-assisted design functionality.
 - Worked across frontend, backend, AI, testing, and integration tasks.
-
+- [view repository](https://github.com/karthikgoud24/NeoGarden-Enhanced).
 
 ## 📚 Currently Learning
 
