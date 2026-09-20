@@ -49,16 +49,56 @@ Currently focused on:
 
 ## 🚀 Featured Projects
 
-### 🧑‍💻 Student Management Platform
-Full-stack student management platform built with FastAPI,
-PostgreSQL, SQLAlchemy and JavaScript.
+### 💧 AquaInsights Pro
+**AI-Assisted Water Quality Analysis & Citizen Reporting**
 
-**Focus:** Authentication, REST APIs, database integration,
-CRUD operations and frontend-backend communication.
+A mobile application focused on water-quality analysis and citizen
+reporting workflows.
 
-[View Repository](https://github.com/santhoshvottikalla/student-management-system)
+**Tech:** Flutter · Dart · Google Maps API · Water Quality API · Lottie
+
+- Developed a WQI Dashboard and Quick Scan workflow.
+- Integrated camera/gallery inputs with water-quality analysis.
+- Implemented WQI and confidence-level visualization.
+- Built a multi-step citizen reporting workflow supporting photo,
+  video, voice, location, severity, and text inputs.
+- Integrated frontend modules with backend services and APIs.
+[view repository] (https://github.com/karthikgoud24/Aqua-Insights).
+---
+
+### 🔍 AI Debt Lens
+**Explainable AI-Generated Code & Technical Debt Analysis**
+
+A tool for analyzing AI-generated code and identifying patterns
+associated with AI-induced technical debt.
+
+**Tech:** React · TypeScript · Supabase · Google Gemini ·
+Hybrid Analysis · Static Analysis
+
+- Engineered AI-generated code detection and heuristic analysis.
+- Implemented deterministic scoring using code-quality signals such
+  as cyclomatic complexity, nesting depth, duplication, and structural
+  patterns.
+- Contributed to a hybrid scoring pipeline combining local heuristics
+  with AI-based verification.
+- Worked with Supabase Edge Functions and Gemini-based AI detection
+  to estimate AI-generated code probability.
 
 ---
+
+### 🌱 NeoGarden Enhanced
+**AI-Assisted Garden & Landscape Designer**
+
+An interactive garden and landscape design application with
+AI-assisted functionality.
+
+**Tech:** HTML · CSS · JavaScript · Node.js · Express.js · Git/GitHub
+
+- Enhanced the interactive garden-design UI with animations,
+  improved graphics, and responsive layouts.
+- Integrated frontend-backend communication using Node.js/Express APIs.
+- Contributed to plant-data and AI-assisted design functionality.
+- Worked across frontend, backend, AI, testing, and integration tasks.
 
 
 ## 📚 Currently Learning
