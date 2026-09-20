@@ -60,15 +60,6 @@ CRUD operations and frontend-backend communication.
 
 ---
 
-### ⚙️ RISC-V Simulator
-A C++ implementation focused on understanding processor architecture
-and instruction execution.
-
-**Focus:** Computer architecture, instruction processing and simulation.
-
-[View Repository](https://github.com/santhoshvottikalla/RISC-V-Simulator)
-
----
 
 ## 📚 Currently Learning
 
